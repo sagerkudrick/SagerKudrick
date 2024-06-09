@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SagerKudrick
 - 📫 reach me at sagerkudrick@hotmail.com
 
-# ML-DP Repository
+# Privacy-Preserving Image and Text Classification with AI
 Witness an innovative application of Differential Privacy in conjunction with state-of-the-art Machine Learning models [here](https://github.com/SagerKudrick/ml-dp).
 
 - Demonstrates the fusion of Differential Privacy with modern Machine Learning, focusing on the MNIST dataset for digit classification.
