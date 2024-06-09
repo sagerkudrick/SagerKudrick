@@ -1,9 +1,20 @@
 - 👋 Hi, I’m @SagerKudrick
 - 📫 reach me at sagerkudrick@hotmail.com
 
-Feel free to explore my repository at https://github.com/SagerKudrick/ml-dp, where you can witness an innovative application of Differential Privacy in conjunction with state-of-the-art Machine Learning models. This demonstration focuses on the renowned MNIST dataset, which involves the classification of hand-written digits ranging from 0 to 9. By incorporating differential privacy techniques, we not only achieve exceptional accuracy in our model's predictions but also uphold the utmost privacy and security of the underlying training datasets.
+# ML-DP Repository
+Feel free to explore my repository at [here](https://github.com/SagerKudrick/ml-dp), where you can witness an innovative application of Differential Privacy in conjunction with state-of-the-art Machine Learning models.
 
-Within the repository, you will discover a comprehensive showcase of how Differential Privacy can seamlessly integrate with modern Machine Learning techniques. Through meticulous implementation and rigorous experimentation, we have demonstrated that the incorporation of differential privacy does not compromise the accuracy or performance of our models. On the contrary, it serves as a robust safeguard that protects sensitive data from potential breaches while enabling precise predictions.
+- Demonstrates the fusion of Differential Privacy with modern Machine Learning, focusing on the MNIST dataset for digit classification.
+  - Achieves high accuracy in predictions while safeguarding data privacy.
+  - Shows how differential privacy enhances model security without compromising performance.
+
+# Flask/React Game Catalog
+
+Explore my Flask/React Game Catalog project [here](https://github.com/SagerKudrick/flask-react-game-scraper).
+
+- Developed a Flask API with endpoints for seamless filtering and CRUD operations on an SQL database.
+- Engineered a React frontend in JavaScript to showcase data from the Flask API, enabling users to execute CRUD operations instantly.
+- Deployed to a cloud Linux server for 24/7 operation using PuTTy, OpenSSH, and FileZilla.
 
 <!--[![Sager's GitHub stats](https://github-readme-stats.vercel.app/api?username=sagerkudrick)](https://github.com/anuraghazra/github-readme-stats)--->
 
