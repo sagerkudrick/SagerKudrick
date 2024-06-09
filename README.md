@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SagerKudrick
-- 📫 reach me at sagerkudrick@hotmail.com
+- 📫 reach me at sagerkudrick@gmail.com
 
 # Privacy-Preserving Image and Text Classification with AI
 Witness an innovative application of Differential Privacy in conjunction with state-of-the-art Machine Learning models [here](https://github.com/SagerKudrick/ml-dp).
