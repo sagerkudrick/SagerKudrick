@@ -2,7 +2,7 @@
 - 📫 reach me at sagerkudrick@hotmail.com
 
 # ML-DP Repository
-Feel free to explore my repository at [here](https://github.com/SagerKudrick/ml-dp), where you can witness an innovative application of Differential Privacy in conjunction with state-of-the-art Machine Learning models.
+[here](https://github.com/SagerKudrick/ml-dp), where you can witness an innovative application of Differential Privacy in conjunction with state-of-the-art Machine Learning models.
 
 - Demonstrates the fusion of Differential Privacy with modern Machine Learning, focusing on the MNIST dataset for digit classification.
   - Achieves high accuracy in predictions while safeguarding data privacy.
