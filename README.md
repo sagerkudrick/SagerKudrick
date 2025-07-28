@@ -13,15 +13,15 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/sagerkudrick/cs2-dataset-gen/main/imgs/rotating.gif" width="120"/><br/>
 </div>
-A custom Blender + Python pipeline that renders **multi-angle images** of 3D character models with transparent backgrounds. Optimized for AI training (e.g., YOLOv7).
+
+Designed and implemented a **custom Blender + Python pipeline** to generate high-quality, multi-angle synthetic datasets of 3D game character models with transparent backgrounds, tailored for **computer vision and object detection tasks**.
 
 🔗 <a href="https://github.com/SagerKudrick/cs2-render-pipeline">View Repository →</a>
 
-- 👁️ Rendered Dataset implemented with YOLOv7 and achieves **>85% real-time, in-game model detection**
-- 📦 Includes a **self-contained `.blend` file** with a placeholder model and scripted camera rig.
-- 🧠 Run the script directly from Blender’s scripting tab — just add your own model.
-- 🧰 A standalone Python script is included for viewing or using the process without Blender.
-- 🌐 Outputs **transparent PNGs**, ideal for dataset generation or model training.
+- 👁️ Integrated and validated dataset with **YOLOv7 object detection models**, achieving **>85% real-time accuracy** detecting in-game characters.
+- 🧰 Developed a fully **self-contained `.blend` file** with an automated scripted camera rig to facilitate seamless dataset creation.
+- 🧠 Automated multi-angle rendering using Python scripting within Blender for dataset generation.
+- 🚀 Demonstrated expertise in **synthetic data generation, computer vision workflows, and practical AI model training** to enhance detection robustness in gaming environments.
 
 </td>
 <td align="center">
@@ -41,13 +41,14 @@ A custom Blender + Python pipeline that renders **multi-angle images** of 3D cha
 <tr>
 <td width="55%">
 
-Explore Differential Privacy in action with modern Machine Learning. This project demonstrates how to train neural networks that preserve data privacy without significantly reducing model performance.
+Applied advanced **Differential Privacy (DP)** techniques to train neural networks that **securely protect sensitive data**, preventing any potential dataset reconstruction or leakage — crucial for privacy-critical industries such as healthcare and finance.
 
 🔗 <a href="https://github.com/SagerKudrick/ml-dp">View Project →</a>
 
-- 🔒 Combines **Differential Privacy** with neural networks to protect sensitive data.
-- 🧪 Applied to the **MNIST** digit classification dataset.
-- 📊 Shows how privacy techniques can enhance model robustness without sacrificing accuracy.
+- 🔒 Engineered DP-trained models that provide mathematically backed **privacy guarantees**.
+- 🧠 Executed end-to-end development and evaluation of neural networks on the MNIST dataset, optimizing the trade-off between **model accuracy and privacy**.
+- 🛠 Applied noise addition, gradient clipping, and privacy accounting methods, showcasing proficiency in **privacy-preserving machine learning frameworks**.
+- 📊 Delivered comprehensive performance analyses demonstrating how to maintain predictive power while ensuring **robust data privacy**.
 
 </td>
 <td align="center">
@@ -66,15 +67,31 @@ Explore Differential Privacy in action with modern Machine Learning. This projec
 <tr>
 <td width="55%">
 
-A full-stack web app that allows users to view, filter, and manage a game catalog.
+Developed a full-stack web application that enables users to efficiently browse, filter, and manage a dynamic game catalog, demonstrating expertise in backend API design and frontend user experience.
 
 🔗 <a href="https://github.com/SagerKudrick/flask-react-game-scraper">View Project →</a>
 
-- 🔧 Built a Flask REST API with filtering and full CRUD operations.
-- ⚛️ Developed a React frontend that interacts seamlessly with the backend.
-- ☁️ Deployed on a cloud Linux server for 24/7 operation using PuTTY, OpenSSH, and FileZilla.
+- 🔧 Built a **RESTful Flask API** with advanced filtering, pagination, and full CRUD capabilities, demonstrating strong backend architecture skills.
+- ⚛️ Crafted a responsive React frontend leveraging modern JavaScript frameworks to deliver a seamless and interactive user interface.
+- ☁️ Managed deployment and maintenance on a cloud Linux server, using PuTTY, OpenSSH, and FileZilla, reflecting experience with real-world DevOps workflows.
+- 📈 Ensured scalability and maintainability by integrating best practices in API security, state management, and component-based UI development.
 
 </td>
 <td align="center">
 
 <img src="https://github.com/SagerKudrick/flask-react-game-scraper/blob/main/readme-images/delete.gif?raw=true" width="500"/>
+
+</td>
+</tr>
+</table>
+
+---
+
+<!--
+![Sager's GitHub stats](https://github-readme-stats.vercel.app/api?username=sagerkudrick)
+-->
+
+<!---
+SagerKudrick/SagerKudrick is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
