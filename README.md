@@ -10,8 +10,10 @@
 <table>
 <tr>
 <td width="55%">
-
-A custom Blender + Python pipeline that renders **multi-angle images** of 3D character models with transparent backgrounds — optimized for AI training (e.g., YOLOv7).
+<div align="center">
+  <img src="https://raw.githubusercontent.com/sagerkudrick/cs2-dataset-gen/main/imgs/rotating.gif" width="120"/><br/>
+</div>
+A custom Blender + Python pipeline that renders **multi-angle images** of 3D character models with transparent backgrounds. Optimized for AI training (e.g., YOLOv7).
 
 🔗 <a href="https://github.com/SagerKudrick/cs2-render-pipeline">View Repository →</a>
 
@@ -23,9 +25,8 @@ A custom Blender + Python pipeline that renders **multi-angle images** of 3D cha
 </td>
 <td align="center">
 
-<img src="https://raw.githubusercontent.com/sagerkudrick/cs2-dataset-gen/main/imgs/rotating.gif" width="120"/><br/>
-<img src="https://raw.githubusercontent.com/SagerKudrick/cs2-dataset-gen/main/imgs/blender_prev.gif" width="300"/><br/>
-<img src="https://raw.githubusercontent.com/sagerkudrick/cs2-dataset-gen/refs/heads/main/imgs/livedetect.png" width="300"/>
+<img src="https://raw.githubusercontent.com/SagerKudrick/cs2-dataset-gen/main/imgs/blender_prev.gif" width="400"/><br/>
+<img src="https://raw.githubusercontent.com/sagerkudrick/cs2-dataset-gen/refs/heads/main/imgs/livedetect.png" width="400"/>
 
 </td>
 </tr>
@@ -75,4 +76,4 @@ A full-stack web app that allows users to view, filter, and manage a game catalo
 </td>
 <td align="center">
 
-<img src="[https://github.com/user-attachments/assets/898196d2-93f3-4db1-ba0d-f08d32761d8c](https://github.com/sagerkudrick/flask-react-game-scraper/blob/main/readme-images/delete.gif)" width="500"/>
+<img src="https://github.com/SagerKudrick/flask-react-game-scraper/blob/main/readme-images/delete.gif?raw=true" width="500"/>
