@@ -5,7 +5,7 @@
 
 ---
 
-## 🕹️ Counter-Strike 2 Dataset Rendering Pipeline
+## 🕹️ Counter-Strike 2 Dataset Rendering Pipeline + Object Detection & Computer Vision
 
 <table>
 <tr>
