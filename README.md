@@ -17,6 +17,7 @@ A custom Blender + Python pipeline that renders **multi-angle images** of 3D cha
 
 🔗 <a href="https://github.com/SagerKudrick/cs2-render-pipeline">View Repository →</a>
 
+- 👁️ Rendered Dataset implemented with YOLOv7 and achieves **>85% real-time, in-game model detection**
 - 📦 Includes a **self-contained `.blend` file** with a placeholder model and scripted camera rig.
 - 🧠 Run the script directly from Blender’s scripting tab — just add your own model.
 - 🧰 A standalone Python script is included for viewing or using the process without Blender.
