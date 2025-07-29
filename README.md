@@ -39,7 +39,7 @@
 
 Designed and implemented a **custom Blender + Python pipeline** to generate high-quality, multi-angle synthetic datasets of 3D game character models with transparent backgrounds, tailored for **computer vision and object detection tasks**.
 
-🔗 <a href="https://github.com/SagerKudrick/cs2-render-pipeline">View Repository →</a>
+🔗 <a href="https://github.com/sagerkudrick/cs2-dataset-gen">View Repository →</a>
 
 - 👁️ Integrated and validated dataset with **YOLOv7 object detection models**, achieving **>85% real-time accuracy** detecting in-game characters.
 - 🧰 Developed a fully **self-contained `.blend` file** with an automated scripted camera rig to facilitate seamless dataset creation.
