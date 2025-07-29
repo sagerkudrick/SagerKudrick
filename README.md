@@ -77,7 +77,7 @@ A stylized **Blender-based rendering system** that scrapes, processes, and anima
 <td align="center" style="vertical-align: top; width: 45%;">
 
 <!-- Replace with your own GIF or image preview link -->
-<img src="https://github.com/sagerkudrick/RetroMag/blob/main/half-life-book.gif?raw=true" width="400" alt="3D Magazine Preview"/><br/>
+<img src="https://github.com/sagerkudrick/RetroMag/blob/main/hl2.gif?raw=true" width="400" alt="3D Magazine Preview"/><br/>
 
 </td>
 </tr>
