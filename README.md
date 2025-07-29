@@ -7,17 +7,24 @@
 
 ## 📚 Publications
 
-### 🧩 Leveraging Graph Clustering for Differentially Private Graph Neural Networks  
-📅 IEEE Big Data 2024 | DOI: [`10.1109/BigData62323.2024.10825799`](https://doi.org/10.1109/BigData62323.2024.10825799)
+<table>
+  <tr>
+    <td style="vertical-align: top; width: 55%; padding-right: 20px;">
+      <h3>🧩 Leveraging Graph Clustering for Differentially Private Graph Neural Networks</h3>
+      <p>📅 IEEE Big Data 2024<br>
+      DOI: <a href="https://doi.org/10.1109/BigData62323.2024.10825799">10.1109/BigData62323.2024.10825799</a></p>
+      <br>
+    </td>
+    <td style="vertical-align: top; width: 45%;">
+      <strong>Highlights:</strong>
+      <ul>
+        <li>🚀 Novel graph clustering method for training differentially private GNNs on disjoint subgraphs</li>
+        <li>🔒 Enhances privacy and scalability without sacrificing accuracy</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-**Highlights:**  
-- 🚀 Novel graph clustering method for training differentially private GNNs on disjoint subgraphs  
-- 🔒 Enhances privacy and scalability without sacrificing accuracy  
-- ⚙️ Inspired by community detection to preserve meaningful graph structure  
-
----
-
-## 🛠️ Projects
 
 ### 🕹️ Counter-Strike 2 Dataset Rendering Pipeline + Object Detection & Computer Vision
 ---
