@@ -10,7 +10,7 @@
 <table>
   <tr>
     <td style="vertical-align: top; width: 55%; padding-right: 20px;">
-      <h3>🧩 Leveraging Graph Clustering for Differentially Private Graph Neural Networks</h3>
+      <h3>Leveraging Graph Clustering for Differentially Private Graph Neural Networks</h3>
       <p>📅 IEEE Big Data 2024<br>
       DOI: <a href="https://doi.org/10.1109/BigData62323.2024.10825799">10.1109/BigData62323.2024.10825799</a></p>
       <br>
