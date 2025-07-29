@@ -50,7 +50,7 @@ Designed and implemented a **custom Blender + Python pipeline** to generate high
 <td align="center">
 
 <img src="https://raw.githubusercontent.com/SagerKudrick/cs2-dataset-gen/main/imgs/blender_prev.gif" width="400"/><br/>
-<img src="https://raw.githubusercontent.com/sagerkudrick/cs2-dataset-gen/refs/heads/main/imgs/livedetect.png" width="400"/>
+<img src="https://github.com/sagerkudrick/cs2-dataset-gen/blob/main/imgs/detection_anim.gif?raw=true" width="400"/>
 
 </td>
 </tr>
