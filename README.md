@@ -71,12 +71,12 @@ A stylized **Blender-based rendering system** that scrapes, processes, and anima
 - 🗂️ Scrapes 90s–2000s **PDF magazines** from web archives and converts pages into texture images  
 - 📘 Maps pages onto a **custom 3D magazine mesh** 
 - 🧠 Includes an interactive **page selection interface** to choose any two pages for the rendered book
-- 🛠️ Streamlines page swapping and batch rendering into a fully automated pipeline  
+- 🛠️ Streamlines page swapping and batch rendering into a fully automated pipeline, simultaniously generating seamless, looping GIFs and individually sized videos for Instagram and TikTok. 
 
 </td>
 <td align="center" style="vertical-align: top; width: 45%;">
 
-<!-- Replace with your own GIF or image preview link -->
+<img src="https://github.com/sagerkudrick/RetroMag/blob/main/renderer.png?raw=true" width="300" alt="3D Magazine Preview"/><br/>
 <img src="https://github.com/sagerkudrick/RetroMag/blob/main/hl2.gif?raw=true" width="400" alt="3D Magazine Preview"/><br/>
 
 </td>
