@@ -25,7 +25,7 @@
   </tr>
 </table>
 
-## 📚 Projects
+## 🛠️ Projects
 
 ### 🕹️ Counter-Strike 2 Dataset Rendering Pipeline + Object Detection & Computer Vision
 ---
