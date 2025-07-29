@@ -69,7 +69,7 @@ A stylized **Blender-based rendering system** that scrapes, processes, and anima
 > 🔒 Core assets (models, templates) are private to preserve originality.
 
 - 🗂️ Scrapes 90s–2000s **PDF magazines** from web archives and converts pages into texture images  
-- 📘 Maps pages onto a **custom 3D magazine mesh** for animated previews and renders  
+- 📘 Maps pages onto a **custom 3D magazine mesh** 
 - 🧠 Includes an interactive **page selection interface** to choose any two pages for the rendered book
 - 🛠️ Streamlines page swapping and batch rendering into a fully automated pipeline  
 
