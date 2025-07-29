@@ -1,11 +1,26 @@
-# 👋 Hi, I’m Sager Kudrick
+# 👋 Hi, I’m **Sager Kudrick**
 
-📫 Reach me at: **sagerkudrick@gmail.com**  
+📫 Reach me at: **[sagerkudrick@gmail.com](mailto:sagerkudrick@gmail.com)**  
 💼 [LinkedIn](https://linkedin.com/in/sagerkudrick) | 💻 [GitHub](https://github.com/SagerKudrick)
 
 ---
 
-## 🕹️ Counter-Strike 2 Dataset Rendering Pipeline + Object Detection & Computer Vision
+## 📚 Publications
+
+### 🧩 Leveraging Graph Clustering for Differentially Private Graph Neural Networks  
+📅 IEEE Big Data 2024 | DOI: [`10.1109/BigData62323.2024.10825799`](https://doi.org/10.1109/BigData62323.2024.10825799)
+
+**Highlights:**  
+- 🚀 Novel graph clustering method for training differentially private GNNs on disjoint subgraphs  
+- 🔒 Enhances privacy and scalability without sacrificing accuracy  
+- ⚙️ Inspired by community detection to preserve meaningful graph structure  
+
+---
+
+## 🛠️ Projects
+
+### 🕹️ Counter-Strike 2 Dataset Rendering Pipeline + Object Detection & Computer Vision
+---
 
 <table>
 <tr>
