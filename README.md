@@ -58,6 +58,33 @@ Designed and implemented a **custom Blender + Python pipeline** to generate high
 
 ---
 
+## 📖 3D Magazine Pipeline 
+
+<table>
+<tr>
+<td width="55%">
+
+A stylized **Blender-based rendering system** that scrapes, processes, and animates vintage gaming magazines into rotating, transparent 3D models.
+
+> 🔒 Core assets (models, templates) are private to preserve originality.
+
+- 🗂️ Scrapes 90s–2000s **PDF magazines** from web archives and converts pages into texture images  
+- 📘 Maps pages onto a **custom 3D magazine mesh** for animated previews and renders  
+- 🧠 Includes an interactive **page selection interface** to choose any two pages for the rendered book
+- 🛠️ Streamlines page swapping and batch rendering into a fully automated pipeline  
+
+</td>
+<td align="center" style="vertical-align: top; width: 45%;">
+
+<!-- Replace with your own GIF or image preview link -->
+<img src="https://github.com/sagerkudrick/RetroMag/blob/main/half-life-book.gif?raw=true" width="400" alt="3D Magazine Preview"/><br/>
+
+</td>
+</tr>
+</table>
+
+---
+
 ## 🔐 Privacy-Preserving Image and Text Classification
 
 <table>
